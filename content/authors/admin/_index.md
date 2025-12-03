@@ -59,13 +59,22 @@ education:
     
 
 work:
-  - position: Sr. Software Developer
-    company_name: Network Components pvt. ltd.
+  - position: Senior AI Research Scientist
+    company_name: Meta AI
+    company_url: 'https://ai.meta.com/'
     icon: ''
-    date_start: 2017
-    date_end: present
-    summary: Experienced and dedicated Mobile App Developer with impressive expertise in industry. Directs design, development and implementation of mobile applications and delivers products ahead of schedule. Strong application lifecycle skills and dynamic persona.
-  
+    date_start: 2020-01-01
+    date_end: ''
+    summary: |2-
+      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+  - position: AI Research Intern
+    company_name: OpenAI
+    company_url: 'https://openai.com/'
+    icon: ''
+    date_start: 2019-06-01
+    date_end: 2019-12-31
+    summary: |
+      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
