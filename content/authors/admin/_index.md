@@ -1,13 +1,13 @@
 ---
 # Display name
-title: NIKHIL VHARAMBLE
+title: Nikhil Vharamble
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: NIKHIL
-last_name: VHARAMBLE
+first_name: Nikhil
+last_name: Vharamble
 
 # Pronouns (optional)
 pronouns: he/him
@@ -27,8 +27,8 @@ role: MOBILE APPLICATION DEVELOPER
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Network Components pvt. ltd
+ 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -36,16 +36,8 @@ profiles:
   - icon: at-symbol
     url: 'vharamblenikhil@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/nikhilvharamble
 
 interests:
   - Large Language Models
@@ -54,34 +46,17 @@ interests:
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+  - area: MCA
+    institution: Shivaji University
     icon: ""
     date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+    date_end: 2016-06-30
+  - area: BCS
+    institution: Shivaji University
     icon: ""
     date_start: 2009-09-01
     date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+    
 
 work:
   - position: Senior AI Research Scientist
