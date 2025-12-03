@@ -63,16 +63,16 @@ work:
     company_name: Network Conponents pvt. ltd
     company_url: ''
     icon: ''
-    date_start: 2017
-    date_end: Present
+    date_start: 2020-01-01
+    date_end: ''
     summary: |2-
       Developed and maintained high-performance Android applications using Kotlin and Java.Mentored junior developers on best practices in Android development and coding standards. Led project planning sessions to align development efforts with business objectives and timelines.
   - position: Android Developer
     company_name: BR Technobizz,Pune
     company_url: ''
     icon: ''
-    date_start: 2016
-    date_end: 2017
+    date_start: 2020-01-01
+    date_end: ''
     summary: |
       Developed and maintained high-performance Android applications using Kotlin and Java.Mentored junior developers on best practices in Android development and coding standards. Led project planning sessions to align development efforts with business objectives and timelines.
 
