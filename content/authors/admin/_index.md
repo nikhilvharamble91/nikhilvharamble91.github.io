@@ -93,12 +93,28 @@ skills:
         description: ''
         percent: 85
         icon: cloud
- 
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking in the Rockies
+        description: ''
+        percent: 80
+        icon: person-simple-walk
+      - name: Building Custom PCs
+        description: ''
+        percent: 90
+        icon: cpu-chip
+      - name: Sci-Fi Reading
+        description: ''
+        percent: 70
+        icon: book-open
 
 languages:
   - name: English
-  - name: Marathi
-  - name: Hindhi
+    percent: 100
+  - name: Spanish
+    percent: 50
 
 
 ---
