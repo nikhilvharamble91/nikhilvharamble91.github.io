@@ -59,22 +59,22 @@ education:
     
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Sr. Android/Flutter Developer
+    company_name: Network Conponents pvt. ltd
+    company_url: ''
     icon: ''
-    date_start: 2020-01-01
-    date_end: ''
+    date_start: 2017
+    date_end: Present
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Developed and maintained high-performance Android applications using Kotlin and Java.Mentored junior developers on best practices in Android development and coding standards. Led project planning sessions to align development efforts with business objectives and timelines.
+  - position: Android Developer
+    company_name: BR Technobizz,Pune
+    company_url: ''
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2016
+    date_end: 2017
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Developed and maintained high-performance Android applications using Kotlin and Java.Mentored junior developers on best practices in Android development and coding standards. Led project planning sessions to align development efforts with business objectives and timelines.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
