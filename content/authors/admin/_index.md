@@ -39,20 +39,11 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/nikhilvharamble
 
-skills:
-  - Android Studio
-  - JAVA
-  - Kotlin
-  - Flutter
-  - Rxjava
-  - HTTP,MQTT,Socket.io
-  - Firebase
-  - Dart
-  - Retrofit
-  - LiveData
-  - MVVM,MVI,MVC
-  - BLOC,GETX,Provider
-  - Junit
+interests:
+  - Large Language Models
+  - Computer Vision
+  - Reinforcement Learning
+  - AI Ethics
 
 education:
   - area: MCA
