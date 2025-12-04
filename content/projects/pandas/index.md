@@ -1,14 +1,14 @@
 ---
-title: Pandas
+title: Darwin Wellness
 links:
   - type: site
-    url: https://github.com/pandas-dev/pandas
+    url: https://play.google.com/store/apps/details? id=com.delos.welltekmobile.native_v2_welltek
 tags:
   - Hugo
   - HugoBlox
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Darwin wellness is a android IOT based application. This application supports mobile also tablet, according to device type Ul will changes. This App mainly developed for home automation in that we provides many features like controlling home appliances, set simulation(alarm with light intensity,sound etc), indoor/outdoor climate acknowledgment.
 
 <!--more-->
