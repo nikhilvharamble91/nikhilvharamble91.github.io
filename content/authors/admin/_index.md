@@ -39,7 +39,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/nikhilvharamble
 
-interests:
+skills:
   - Large Language Models
   - Computer Vision
   - Reinforcement Learning
