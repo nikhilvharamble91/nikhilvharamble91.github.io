@@ -1,11 +1,10 @@
 ---
 title: Clouzer Edge
+date: ''
 links:
   - type: site
     url: https://play.google.com/store/apps/details? id=com.clouds.developers.cewellness&hl=en&gl=US
 tags:
-  - Hugo
-  - HugoBlox
   - Markdown
 ---
 

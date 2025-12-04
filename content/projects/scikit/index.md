@@ -1,6 +1,6 @@
 ---
 title: EvkApp
-date: 2023-10-26
+date: ''
 links:
   - type: site
     url: https://play.google.com/store/apps/details?id=com.enviroklenz.developers.enviroklenz&hl=en_IN
