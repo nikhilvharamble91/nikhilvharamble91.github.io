@@ -72,7 +72,7 @@ work:
     company_url: ''
     icon: ''
     date_start: 2016-20-02
-    date_end: 2017-23-02
+    date_end: ''
     summary: |
       Developed and maintained high-performance Android applications using Kotlin and Java.Mentored junior developers on best practices in Android development and coding standards. Led project planning sessions to align development efforts with business objectives and timelines.
 
