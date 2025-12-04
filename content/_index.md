@@ -21,7 +21,7 @@ sections:
       headings:
         about: ''
         education: ''
-        interests: ''
+        skills: ''
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
